@@ -8,11 +8,6 @@
 </head>
 <body>
     <form id="form1" runat="server">   
-        <br />
-        Test<br />
-        <br />
-        asdf<br />
-        <br />
-        1234</form>
+        TEST1234</form>
 </body>
 </html>
